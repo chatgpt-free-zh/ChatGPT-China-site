@@ -1,8 +1,8 @@
-# ChatGPT 中文版：国内访问指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年7月更新】
+# ChatGPT 中文版：国内访问指南（支持GPT-5、GPT-4o、GPT-o1，无需翻墙）【2025年7月更新】
 
-> **更新时间：2025/7/29 **  
+> **更新时间：2025/9/22 **  
 
-**全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！**  
+**全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-5 和多功能应用！**  
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
@@ -23,7 +23,7 @@
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
 - **本地化服务**：通过国内镜像网站实现，无需翻墙即可访问。
-- **多功能应用**：支持 GPT-4 和 GPT-3.5，同时提供翻译、写作、问答等多种场景应用。
+- **多功能应用**：支持 GPT-5 和 GPT-4，同时提供翻译、写作、问答等多种场景应用。
 ---
 
 ## 国内可用的 ChatGPT 镜像网站推荐
@@ -32,8 +32,8 @@
 
 | 网站名 | 链接 | 支持功能 |
 | --- | --- | --- |
-| 易下AI | [https://xsimplechat.com](https://xsimplechat.com) | GPT4.0、GPT o1、AI绘画 |
-| Lify | [https://chat.lanjingai.org](https://chat.lanjingai.org) | GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
+| 易下AI | [https://xsimplechat.com](https://xsimplechat.com) | GPT-5、GPT o1、AI绘画 |
+| Lify | [https://ai.lanjingai.org](https://ai.lanjingai.org) | GPT-5、GPT4.0 turbo、GPT o1、AI PPT、插件 |
 | 览景AI | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) | 支持GPT全系列模型 |
 ---
 
@@ -59,7 +59,7 @@
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
-3. **选择 GPT 模型**：根据需求选择 GPT-4 或 GPT-3.5。
+3. **选择 GPT 模型**：根据需求选择 GPT-5 或 GPT-4。
 4. **开始对话**：畅享中文聊天体验，支持翻译、写作、办公等功能。
 
 ---
