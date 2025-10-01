@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持GPT-5、GPT-4o、GPT-o1，无需翻墙）【2025年9月更新】
+# ChatGPT 中文版：国内访问指南（支持GPT-5、GPT-4o、GPT-o1，无需翻墙）【2025年10月更新】
 
-> **更新时间：2025/9/22 **  
+> **更新时间：2025/10/02 **  
 
 **全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-5 和多功能应用！**  
 
@@ -34,7 +34,7 @@
 | --- | --- | --- |
 | 易下AI | [https://xsimplechat.com](https://xsimplechat.com) | GPT-5、GPT o1、AI绘画 |
 | Lify | [https://ai.lanjingai.org](https://ai.lanjingai.org) | GPT-5、GPT4.0 turbo、GPT o1、AI PPT、插件 |
-| 览景AI | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) | 支持GPT全系列模型 |
+| 览景AI | [https://gemini-chinese.com](https://gemini-chinese.com) | 支持GPT全系列模型 |
 ---
 
 ## ChatGPT 官网与中文版的区别
